@@ -1,0 +1,14 @@
+{
+    "java": {
+        "complete": true
+    },
+    "HTML": {
+        "complete": true
+    },
+    "CSS": {
+        "complete": false
+    },
+    "PHP": {
+        "complete": false
+    }
+}
